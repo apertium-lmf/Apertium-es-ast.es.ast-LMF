@@ -1,0 +1,20 @@
+Copying and Author information
+
+Resource name: Spanish-Asturian LMF Apertium Bilingual dictionary
+Resource identifier: http://hdl.handle.net/10230/17116
+Licence: GPL
+
+Authors:
+
+() Universidá d'Uviéu. Equipu d'Investigación Eslema
+
+() Prompsit Language Engineering, S.L
+
+() Universidade de Vigo. Seminario de Lingüística Informática
+
+() Universitat d'Alacant. Grup Transducens
+
+() Universitat Politècnica de Catalunya. TALP Research Center
+
+() Universitat Pompeu Fabra. Institut Universitari de Lingüística Aplicada (IULA)
+
